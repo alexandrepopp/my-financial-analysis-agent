@@ -1,4 +1,4 @@
-# Claude Stock Analysis Skills
+# My Financial Analysis Agent
 
 A set of five for equity analysis. Four skills each handle one stage of analysis, and a fifth **orchestrator** skill chains them into a single end-to-end pipeline that produces a Word document research report.
 
